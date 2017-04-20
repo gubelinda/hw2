@@ -9,7 +9,7 @@ affiliation. No late submissions will be accepted.
 
 **Files included in this assignment**
 - README.md - This document
-- Cbb752_homework.docx
+- Assignment_2.docx
 - Val_radii.txt (for CBB/CS assignment)
 - Val_residues.txt (for CBB/CS assignment)
 - Val_rotated.txt (for CBB/CS assignment)
