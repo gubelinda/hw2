@@ -13,5 +13,3 @@ affiliation. No late submissions will be accepted.
 - Val_radii.txt (for CBB/CS assignment)
 - Val_residues.txt (for CBB/CS assignment)
 - Val_rotated.txt (for CBB/CS assignment)
-
-
